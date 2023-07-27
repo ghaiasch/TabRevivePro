@@ -1,0 +1,85 @@
+.container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    width: 500px;
+  }
+  
+  h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .option {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .radio-group {
+    display: flex;
+    margin-top: 5px;
+  }
+  
+  .radio-group label {
+    margin-right: 10px;
+  }
+  
+  .small-input {
+    width: 80px;
+  }
+  
+  select,
+  .small-input {
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .default-interval {
+    font-size: 12px;
+    color: #999;
+    margin-left: 10px;
+  }
+  
+  .success {
+    color: green;
+    margin-top: 10px;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
+  h2 {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  
+  table th,
+  table td {
+    padding: 5px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+  
